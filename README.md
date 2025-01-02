@@ -13,7 +13,7 @@ A total of 238 followers that I do not follow back and a total of 190 accounts I
 
 
 followers you don't follow back:
-![alt text](image.png)
+![alt text](image-3.png)
 
 From the pie chart we can see the percentage of users who follow you but you don't follow back. 22.2% of users follow you but you don't follow back and 77.8% of users you follow back.
 
@@ -23,10 +23,10 @@ A steady increase of accounts you follow but they don't follow you back. Year 20
 ![alt text](image-1.png)
 A filtered Pie chart showing only accounts not following you back after 2019 and which year had the highest number of accounts not following you back.
 
-![alt text](image-3.png)
+![alt text](image-4.png)
 81.5% of users you follow but they don't follow you total years. 18.5% of users follow you back total years.
 
-![alt text](image-4.png)
+![alt text](image-5.png)
 This visualization, titled "Cumulative Non-Reciprocal Follows Over Time," effectively shows how the count of people you follow who don't follow you back has increased over the years. The following insights can be drawn from this chart:
 
 1. Steady Growth: There is a gradual but consistent increase in non-reciprocal follows over time. This suggests that as your social circle grew, the number of people who didn’t follow you back also increased steadily.
@@ -41,10 +41,10 @@ This visualization, titled "Cumulative Non-Reciprocal Follows Over Time," effect
 
     The cumulative count reaching close to 200 by 2024 emphasizes the importance of regularly reviewing your connections if you're keen on optimizing mutual engagement.
 
-![alt text](image-5.png)
+![alt text](image-6.png)
 From the bar chart, the years with most growth were between 2018 and 2019. The year with the most growth was 2019. 2019 had over 175 new followers, while 2018 had over 150 new followers.
 
-![alt text](image-6.png)
+![alt text](image-7.png)
 This graph represents the yearly follower growth rate in percentage, providing insight into how your Instagram following has changed over time. Here's what can be inferred from it:
 
 Observations:\
