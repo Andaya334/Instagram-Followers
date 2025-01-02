@@ -17,10 +17,10 @@ followers you don't follow back:
 
 From the pie chart we can see the percentage of users who follow you but you don't follow back. 22.2% of users follow you but you don't follow back and 77.8% of users you follow back.
 
-![alt text](image.png)
+![alt text](image-2.png)
 A steady increase of accounts you follow but they don't follow you back. Year 2024 has the highest number of accounts you follow but they don't follow you back with over 30 accounts.
 
-![alt text](image-2.png)
+![alt text](image-1.png)
 A filtered Pie chart showing only accounts not following you back after 2019 and which year had the highest number of accounts not following you back.
 
 ![alt text](image-3.png)
